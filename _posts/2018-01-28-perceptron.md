@@ -7,9 +7,6 @@ header:
 excerpt: "Machine Learning, Data Science, Deep Learning"
 mathjax: "true"
 ---
-
-## Supervised Learning Projects:
-
 ### Project1: Car Price Detection
 
 This project predicts the price of a car based on its:
@@ -19,9 +16,6 @@ This project predicts the price of a car based on its:
 * Number of people who owned the car before (0-3)
 * Age of the car
 * Mileage
-
-
-## Unsupervised Learning Projects
 
 ### Project2: Sentimental Analysis
 
