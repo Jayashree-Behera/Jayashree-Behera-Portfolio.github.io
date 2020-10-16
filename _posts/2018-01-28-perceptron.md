@@ -2,8 +2,6 @@
 title: "Projects"
 date: 2020-08-14
 tags: [data wrangling, data science, machine learning,deep learning]
-header:
-  image: "/images/perceptron/ds1.jpeg"
 excerpt: "Machine Learning, Data Science, Deep Learning"
 mathjax: "true"
 ---
