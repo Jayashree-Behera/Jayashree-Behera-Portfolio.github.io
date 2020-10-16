@@ -8,6 +8,6 @@ author_profile: true
 
 
 
-<p>Here's a downloadable version of my <a href="https://github.com/abhishek-jana/abhishek-jana.github.io/raw/master/Abhishek_Jana_resume.pdf">CV</a>!</p>
+<p>Here's a downloadable version of my <a href="https://github.com/Jayashree-Behera/Jayashree-Behera.github.io/raw/master/_pages/Jayashree_CV_2020.pdf">resume</a>!</p>
 
-![CV](/images/Abhishek_Jana_resume.jpg "Title")
+![CV](/images/Jayashree_CV_2020.jpg "Title")
